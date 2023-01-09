@@ -1,4 +1,4 @@
-<a href="https://nhsrcommunity.com/" target="_blank"><img alt="NHSR Community Website" src=https://img.shields.io/badge/Website-NHS--R-blue></a> 
+<a href="https://nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"><img alt="NHSR Community Website" src=https://img.shields.io/badge/Website-NHS--R-blue></a> 
 <a href="https://nhsrcommunity.com/blogs/blogs/" target="_blank"><img alt="NHSR Community Blogs" src=https://img.shields.io/badge/Blogs-NHS--R-yellow></a>
 <a href="https://soundcloud.com/nhs-r-community" target="_blank"><img alt="NHSR Community Soundcloud podcasts" src=https://img.shields.io/badge/Podcasts-NHS--R-red></a>
 <a href="mailto:nhs.rcommunity@nhs.net" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-nhs.rcommunity@nhs.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhs.rcommunity@nhs.net"/></a> 
