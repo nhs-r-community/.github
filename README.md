@@ -6,11 +6,9 @@
 <br> 
 
 <h2 align="center">Follow us</h2>
-<p align="center">
-<a href="https://fosstodon.org/@NHSrCommunity" target="_blank"><img alt="NHSR Community Fosstodon" src=https://img.shields.io/mastodon/follow/109428963417193764?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
-<a href="https://twitter.com/NHSrCommunity" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/NHSrCommunity" /></a> 
-<a href="https://www.youtube.com/c/NHSRCommunity" target="_blank"><img alt="NHSR Community YouTube" src=<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMwM-3tg_-Pbx8hKO78q5EA?style=social"></a>
-  <a </a>
+<p align="center"><a 
+href="https://fosstodon.org/@NHSrCommunity" target="_blank"><img alt="NHSR Community Fosstodon" src=https://img.shields.io/mastodon/follow/109428963417193764?domain=https%3A%2F%2Ffosstodon.org&style=social></a> <a 
+href="https://twitter.com/NHSrCommunity" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/NHSrCommunity" /></a> <a href="https://www.youtube.com/c/NHSRCommunity" target="_blank"><img alt="NHSR Community YouTube" src=<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMwM-3tg_-Pbx8hKO78q5EA?style=social"></a>
 </p>  
   
 <!--
