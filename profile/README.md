@@ -22,6 +22,10 @@
 <a href="https://twitter.com/NHSrCommunity" target="_blank" rel="noopener noreferrer"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/NHSrCommunity" /></a>
 </p>  
   
+The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R. 
+
+This repository hosts much of the community's work including packages and training materials, whilst the badges above all link to other sites which the community is involved with. Contributions to any work from the NHS-R Community is always very welcome.
+  
 <!--
 <details>
   <summary><b> Acknowledgements </b></summary>
