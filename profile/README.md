@@ -3,6 +3,7 @@
 <a href="https://nhsrcommunity.com/blogs/blogs/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Community Blogs" src=https://img.shields.io/badge/Blogs-NHS--R-yellow></a>
 <a href="https://soundcloud.com/nhs-r-community" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Community Soundcloud podcasts" src=https://img.shields.io/badge/Podcasts-NHS--R-red> </a>
 <a href="https://www.youtube.com/c/NHSRCommunity" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Community YouTube" src=https://img.shields.io/badge/Videos-YouTube-orange> </a>
+<a href="https://github.com/nhs-r-community/book_group" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Book club" src=https://img.shields.io/badge/Book--Club-Repo-purple> </a>
 </p>
 
 <br> 
