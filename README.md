@@ -8,12 +8,13 @@ These have all been coded using html and include alternative text as well as lin
 
 ## Using HTML (and previewing it)
 
-HTML uses tags and the README includes <br> for breaks, <h2 </h2> for header 2 and <p align "center" </p> to centre the paragraphs. It is possible to set up the README and write it from GitHub, but it's also nice to clone it (if you have permissions on the repository) to RStudio as it is possible to preview changes through the IDE rather than needing to commit each change to view them.
+HTML uses tags and the README includes `<br>` for breaks, `<h2> Text here </h2>` for header 2 and `<p align "center"> Text here </p>` to centre the paragraphs. It is possible to set up the README and write it from GitHub, but it's also nice to clone it (if you have permissions on the repository) to RStudio as it is possible to preview changes through the IDE rather than needing to commit each change to view them.
 
 ## Badges
 
 The NHS-R Community GitHub has a commented out area with the acknowledgement to the badges/shields:
 
+```
 <!--
 <details>
   <summary><b> Acknowledgements </b></summary>
@@ -22,6 +23,7 @@ https://shields.io/category/build
 </details> 
 
 -->
+```
 
 Note, for badges that need links to the sites to reflect tallies you will need IDs for those sites. 
 
