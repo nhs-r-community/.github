@@ -27,11 +27,24 @@ The NHS-R Community started in 2018 to promote the use of R in the NHS and the c
 This repository hosts much of the community's work including packages and training materials, whilst the badges above all link to other sites which the community is involved with. Contributions to any work from the NHS-R Community is always very welcome.
 
 <p align="center">
-<a href="https://nhs-r-community.github.io/NHSR-way/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR-Way Book" src=https://img.shields.io/badge/NHSR-Way-Book-purple> </a>
-<a href="https://nhs-r-community.github.io/statements-on-tools/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/statement-on-tools-Book-purple> </a>
-<a href="https://nhs-r-community.github.io/r4ds-ed2-exercise-solutions/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/unofficial-r4ds-solutions-purple> </a> 
-<a href="https://github.com/nhs-r-community/demos-and-how-tos" target="_blank" rel="noopener noreferrer"> <img alt="Demos and How-tos Code examples" src=https://img.shields.io/badge/demos-how-tos-green> </a> 
+<a href="https://nhs-r-community.github.io/NHSR-way/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Way" src=https://img.shields.io/badge/Book-NHSR--Way-blue></a> 
+<a href="https://nhs-r-community.github.io/statements-on-tools/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/Book-Statement--On--Tools-blue></a> 
+<a href="https://nhs-r-community.github.io/r4ds-ed2-exercise-solutions/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/Book-Unofficial--R4DS--Solutions-blue> </a> 
 </p>
+
+<p align="center">
+<a href="https://github.com/nhs-r-community/demos-and-how-tos" target="_blank" rel="noopener noreferrer"> <img alt="Demos and How-tos Code examples"src=https://img.shields.io/badge/Repo-Demos--How--Tos-green> </a> 
+</p>
+
+<p align="center">
+<a href="https://github.com/nhs-r-community/NHSRplotthedots" target="_blank" rel="noopener noreferrer"> <img alt="NHSRplotthedots package"src=https://img.shields.io/badge/Package-NHSRplotthedots-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRdatasets" target="_blank" rel="noopener noreferrer"> <img alt="NHSRdatasets package"src=https://img.shields.io/badge/Package-NHSRdatasets-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRpopulation" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpopulation package"src=https://img.shields.io/badge/Package-NHSRpopulation-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRepisodes" target="_blank" rel="noopener noreferrer"> <img alt="NHSRepisodes package"src=https://img.shields.io/badge/Package-NHSRepisodes-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRtheme" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtheme package"src=https://img.shields.io/badge/Package-NHSRtheme-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRtraining" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtraining package"src=https://img.shields.io/badge/Package-NHSRtraining-white> </a> 
+</p>
+
   
 <!--
 <details>
