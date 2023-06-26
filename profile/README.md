@@ -31,6 +31,7 @@ This repository hosts much of the community's work including packages and traini
 <a href="https://nhs-r-community.github.io/statements-on-tools/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/Book-Statement--On--Tools-blue></a> 
 <a href="https://nhs-r-community.github.io/r4ds-ed2-exercise-solutions/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/Book-Unofficial--R4DS--Solutions-blue> </a> 
 <a href="https://nhs-r-community.github.io/open-analytics-resources/" target="_blank" rel="noopener noreferrer"> <img alt="Open Analytics Resources" src=https://img.shields.io/badge/Book-Open--Analytics--Resources-blue></a> 
+<a href="https://nhs-r-community.github.io/NHSR-training/" target="_blank" rel="noopener noreferrer"> <img alt="NHS-R training book" src=https://img.shields.io/badge/Book-NHSR--training--book-blue></a> 
 </p>
 
 <p align="center">
@@ -43,7 +44,7 @@ This repository hosts much of the community's work including packages and traini
 <a href="https://github.com/nhs-r-community/NHSRpopulation" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpopulation package"src=https://img.shields.io/badge/Package-NHSRpopulation-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRepisodes" target="_blank" rel="noopener noreferrer"> <img alt="NHSRepisodes package"src=https://img.shields.io/badge/Package-NHSRepisodes-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRtheme" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtheme package"src=https://img.shields.io/badge/Package-NHSRtheme-white> </a> 
-<a href="https://github.com/nhs-r-community/NHSRtraining" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtraining package"src=https://img.shields.io/badge/Package-NHSRtraining-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRtrainingbox" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtrainingbox package"src=https://img.shields.io/badge/Package-NHSRtrainingbox-white> </a> 
 </p>
 
   
