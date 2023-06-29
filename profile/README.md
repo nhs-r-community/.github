@@ -27,11 +27,11 @@ The NHS-R Community started in 2018 to promote the use of R in the NHS and the c
 This repository hosts much of the community's work including packages and training materials, whilst the badges above all link to other sites which the community is involved with. Contributions to any work from the NHS-R Community is always very welcome.
 
 <p align="center">
-<a href="https://nhs-r-community.github.io/NHSR-way/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Way" src=https://img.shields.io/badge/Book-NHSR--Way-blue></a> 
-<a href="https://nhs-r-community.github.io/statements-on-tools/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/Book-Statement--On--Tools-blue></a> 
-<a href="https://nhs-r-community.github.io/r4ds-ed2-exercise-solutions/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/Book-Unofficial--R4DS--Solutions-blue> </a> 
-<a href="https://nhs-r-community.github.io/open-analytics-resources/" target="_blank" rel="noopener noreferrer"> <img alt="Open Analytics Resources" src=https://img.shields.io/badge/Book-Open--Analytics--Resources-blue></a> 
-<a href="https://nhs-r-community.github.io/NHSR-training/" target="_blank" rel="noopener noreferrer"> <img alt="NHS-R training book" src=https://img.shields.io/badge/Book-NHSR--training--book-blue></a> 
+<a href="https://nhsrway.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Way" src=https://img.shields.io/badge/Book-NHSR--Way-blue></a> 
+<a href="https://tools.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/Book-Statement--On--Tools-blue></a> 
+<a href=" https://r4ds-solutions.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/Book-Unofficial--R4DS--Solutions-blue> </a> 
+<a href="https://resources.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Open Analytics Resources" src=https://img.shields.io/badge/Book-Open--Analytics--Resources-blue></a> 
+<a href="http://training.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="NHS-R training book" src=https://img.shields.io/badge/Book-NHSR--training--book-blue></a> 
 </p>
 
 <p align="center">
