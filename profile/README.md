@@ -29,7 +29,6 @@ This repository hosts much of the community's work including packages and traini
 <p align="center">
 <a href="https://nhsrway.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Way" src=https://img.shields.io/badge/Book-NHSR--Way-blue></a> 
 <a href="https://tools.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Statement on Tools Book" src=https://img.shields.io/badge/Book-Statement--On--Tools-blue></a> 
-<a href="https://r4ds-solutions.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Unofficial R4DS (2nd ed) Solutions Book" src=https://img.shields.io/badge/Book-Unofficial--R4DS--Solutions-blue> </a> 
 <a href="https://resources.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="Open Analytics Resources" src=https://img.shields.io/badge/Book-Open--Analytics--Resources-blue></a> 
 <a href="http://training.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="NHS-R training book" src=https://img.shields.io/badge/Book-NHSR--training--book-blue></a> 
 </p>
