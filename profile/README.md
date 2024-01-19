@@ -19,8 +19,6 @@
 <p align="center">
 <a href="https://www.youtube.com/c/NHSRCommunity" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Community YouTube" img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMwM-3tg_-Pbx8hKO78q5EA?style=social"></a> 
 <a href="https://fosstodon.org/@NHSrCommunity" target="_blank" rel="noopener noreferrer"> <img alt="NHSR Community Fosstodon" src=https://img.shields.io/mastodon/follow/109428963417193764?domain=https%3A%2F%2Ffosstodon.org&style=social></a> 
-<a href="https://twitter.com/NHSrCommunity" target="_blank" rel="noopener noreferrer"> <img alt="Twitter" src="https://img.shields.io/twitter/follow/NHSrCommunity" /></a>
-</p>  
   
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R. 
 
