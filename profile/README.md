@@ -47,6 +47,7 @@ This repository hosts much of the community's work including packages and traini
 <h2 align="center">🚧 Work in progress 🚧 </h2>
 <p align="center">
 <a href="https://github.com/nhs-r-community/NHSRpopulation" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpopulation package"src=https://img.shields.io/badge/Package-NHSRpopulation-white> </a> 
+<a href="https://github.com/nhs-r-community/NHSRpostcodetools" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpostcodetools package"src=https://img.shields.io/badge/Package-NHSRpostcodetools-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRepisodes" target="_blank" rel="noopener noreferrer"> <img alt="NHSRepisodes package"src=https://img.shields.io/badge/Package-NHSRepisodes-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRtheme" target="_blank" rel="noopener noreferrer"> <img alt="NHSRtheme package"src=https://img.shields.io/badge/Package-NHSRtheme-white> </a> 
 </p>
