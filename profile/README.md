@@ -10,7 +10,11 @@
 
 <h2 align="center">Contact us</h2>
 <p align="center">
+<a href="https://postcard.nhsrcommunity.com/" target="_blank" rel="noopener noreferrer"> <img alt="NHS-R Community Postcard" src=https://img.shields.io/badge/Postcard-NHSR-blue> </a>
 <a href="mailto:nhs.rcommunity@nhs.net" target="_blank" rel="noopener noreferrer"> <img alt="Mail" src="https://img.shields.io/badge/-nhs.rcommunity@nhs.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nhs.rcommunity@nhs.net"/> </a> 
+</p>
+<p align="center">
+<a href="https://nhsrcommunity.substack.com/" target="_blank" rel="noopener noreferrer"> <img alt="Mail" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)"/> </a> 
 </p>
 
 <br> 
@@ -48,6 +52,7 @@ This repository hosts much of the community's work including packages and traini
 <p align="center">
 <a href="https://github.com/nhs-r-community/NHSRwaitinglist" target="_blank" rel="noopener noreferrer"> <img alt="NHSRwaitinglist package"src=https://img.shields.io/badge/Package-NHSRwaitinglist-white> </a> 
 </p>
+<p align="center">
 <a href="https://github.com/nhs-r-community/NHSRpopulation" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpopulation package"src=https://img.shields.io/badge/Package-NHSRpopulation-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRpostcodetools" target="_blank" rel="noopener noreferrer"> <img alt="NHSRpostcodetools package"src=https://img.shields.io/badge/Package-NHSRpostcodetools-white> </a> 
 <a href="https://github.com/nhs-r-community/NHSRepisodes" target="_blank" rel="noopener noreferrer"> <img alt="NHSRepisodes package"src=https://img.shields.io/badge/Package-NHSRepisodes-white> </a> 
