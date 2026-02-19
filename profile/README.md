@@ -27,6 +27,8 @@
 </a> 
 </p>
 
+PLEASE NOTE🚨 📢 As part of the merger between NHS-R and NHS.pycom into NHS-Open Analytics, the content in this organisation is being moved to [the NHS-OA organisation](https://github.com/nhs-oa-community). We are moving the nhsrcommunity.com content to a new NHS-Open Analytics website in due course.
+
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R. 
 
 This repository hosts much of the community's work including packages and training materials, whilst the badges above all link to other sites which the community is involved with. Contributions to any work from the NHS-R Community is always very welcome.
